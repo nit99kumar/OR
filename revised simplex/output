@@ -1,0 +1,65 @@
+iteration number: 1
+inverse of the basis matrix
+   1.00    0.00    0.00 
+   0.00    1.00    0.00 
+   0.00    0.00    1.00 
+
+extended revised simplex table
+   1.00    2.00    2.00    1.00    0.00    0.00   60.00 
+   2.00    1.00    3.00    0.00    1.00    0.00   60.00 
+   1.00    3.00    6.00    0.00    0.00    1.00   60.00 
+  -1.00   -1.00   -2.00    0.00    0.00    0.00    0.00 
+
+entering variable = x3
+leaving variable = x6
+
+
+iteration number: 2
+inverse of the basis matrix
+   1.00    0.00   -0.33 
+   0.00    1.00   -0.50 
+   0.00    0.00    0.17 
+
+extended revised simplex table
+   1.00    2.00    0.00    1.00    0.00    2.00   40.00 
+   2.00    1.00    0.00    0.00    1.00    3.00   30.00 
+   1.00    3.00    1.00    0.00    0.00    6.00   10.00 
+  -1.00   -1.00    0.00    0.00    0.00   -2.00   20.00 
+
+entering variable = x1
+leaving variable = x5
+
+
+iteration number: 3
+inverse of the basis matrix
+   1.00   -0.44   -0.11 
+   0.00    0.67   -0.33 
+   0.00   -0.11    0.22 
+
+extended revised simplex table
+   0.00    2.00    0.00    1.00    1.00    2.00   26.67 
+   1.00    1.00    0.00    0.00    2.00    3.00   20.00 
+   0.00    3.00    1.00    0.00    1.00    6.00    6.67 
+   0.00   -1.00    0.00    0.00   -1.00   -2.00   33.33 
+
+entering variable = x2
+leaving variable = x3
+
+
+iteration number: 4
+inverse of the basis matrix
+   1.00   -0.20   -0.60 
+   0.00    0.60   -0.20 
+   0.00   -0.20    0.40 
+
+extended revised simplex table
+   0.00    2.00    0.00    1.00    1.00    2.00   12.00 
+   1.00    3.00    0.00    0.00    2.00    1.00   24.00 
+   0.00    6.00    1.00    0.00    1.00    3.00   12.00 
+   0.00   -2.00    0.00    0.00   -1.00   -1.00   36.00 
+
+x1 =   24.00
+x2 =   12.00
+all the other variables in the objective function have zero value.
+optimal value of the objective function =   36.00
+

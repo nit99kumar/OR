@@ -1,0 +1,13 @@
+given amtrix:
+1 2 1 2
+1 2 1 2
+1 2 1 2
+
+the matrix is stable.
+saddle point(s)
+(1, 2)
+(1, 4)
+(2, 2)
+(2, 4)
+(3, 2)
+(3, 4)

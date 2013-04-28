@@ -1,0 +1,6365 @@
+Ax = b
+
+enter the number of rows for matrix A: enter the number of colomns for matrix A: 1: maximise, 0: minimise
+choice: enter the coefficients of the objective function
+coefficient(1): coefficient(2): coefficient(3): coefficient(4): coefficient(5): coefficient(6): coefficient(7): coefficient(8): coefficient(9): coefficient(10): coefficient(11): coefficient(12): A[1,1]: A[1,2]: A[1,3]: A[1,4]: A[1,5]: A[1,6]: A[1,7]: A[1,8]: A[1,9]: A[1,10]: A[1,11]: A[1,12]: A[2,1]: A[2,2]: A[2,3]: A[2,4]: A[2,5]: A[2,6]: A[2,7]: A[2,8]: A[2,9]: A[2,10]: A[2,11]: A[2,12]: A[3,1]: A[3,2]: A[3,3]: A[3,4]: A[3,5]: A[3,6]: A[3,7]: A[3,8]: A[3,9]: A[3,10]: A[3,11]: A[3,12]: A[4,1]: A[4,2]: A[4,3]: A[4,4]: A[4,5]: A[4,6]: A[4,7]: A[4,8]: A[4,9]: A[4,10]: A[4,11]: A[4,12]: A[5,1]: A[5,2]: A[5,3]: A[5,4]: A[5,5]: A[5,6]: A[5,7]: A[5,8]: A[5,9]: A[5,10]: A[5,11]: A[5,12]: A[6,1]: A[6,2]: A[6,3]: A[6,4]: A[6,5]: A[6,6]: A[6,7]: A[6,8]: A[6,9]: A[6,10]: A[6,11]: A[6,12]: A[7,1]: A[7,2]: A[7,3]: A[7,4]: A[7,5]: A[7,6]: A[7,7]: A[7,8]: A[7,9]: A[7,10]: A[7,11]: A[7,12]: B[0]: B[1]: B[2]: B[3]: B[4]: B[5]: B[6]: iteration 1
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 2
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 3
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 4
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 5
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 6
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 7
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 8
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 9
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 10
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 11
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 12
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 13
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 14
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 15
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 16
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 17
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 18
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 19
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 20
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 21
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 22
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 23
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 24
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 25
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 26
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 27
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 28
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 29
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 30
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 31
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 32
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 33
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 34
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 35
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 36
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 37
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 38
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 39
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 40
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 41
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 42
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 43
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 44
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 45
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 46
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 47
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 48
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 49
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 50
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 51
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 52
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 53
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 54
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 55
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 56
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 57
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 58
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 59
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 60
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 61
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 62
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 63
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 64
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 65
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 66
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 67
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 68
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 69
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 70
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 71
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 72
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 73
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 74
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 75
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 76
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 77
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 78
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 79
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 80
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 81
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 82
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 83
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 84
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 85
+
+type of solution: 1
+consistent system of linear eqautions
+
+result:
+5.000000
+10.000000
+15.000000
+10.000000
+basic feasible solution
+result = 1
+
+
+iteration 86
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 87
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 88
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 89
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 90
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 91
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 92
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 93
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 94
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 95
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 96
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 97
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 98
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 99
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 100
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 101
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 102
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 103
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 104
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 105
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 106
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 107
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 108
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 109
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 110
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 111
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 112
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 113
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 114
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 115
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 116
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 117
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 118
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 119
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 120
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 121
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 122
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 123
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 124
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 125
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 126
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 127
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 128
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 129
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 130
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 131
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 132
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 133
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 134
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 135
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 136
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 137
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 138
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 139
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 140
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 141
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 142
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 143
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 144
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 145
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 146
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 147
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 148
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 149
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 150
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 151
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 152
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 153
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 154
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 155
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 156
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 157
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 158
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 159
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 160
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 161
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 162
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 163
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 164
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 165
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 166
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 167
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 168
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 169
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 170
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 171
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 172
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 173
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 174
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 175
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 176
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 177
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 178
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 179
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 180
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 181
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 182
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 183
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 184
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 185
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 186
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 187
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 188
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 189
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 190
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 191
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 192
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 193
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 194
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 195
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 196
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 197
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 198
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 199
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 200
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 201
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 202
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 203
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 204
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 205
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 206
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 207
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 208
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 209
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 210
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 211
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 212
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 213
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 214
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 215
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 216
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 217
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 218
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 219
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 220
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 221
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 222
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 223
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 224
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 225
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 226
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 227
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 228
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 229
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 230
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 231
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 232
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 233
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 234
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 235
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 236
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 237
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 238
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 239
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 240
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 241
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 242
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 243
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 244
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 245
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 246
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 247
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 248
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 249
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 250
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 251
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 252
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 253
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 254
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 255
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 256
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 257
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 258
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 259
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 260
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 261
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 262
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 263
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 264
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 265
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 266
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 267
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 268
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 269
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 270
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 271
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 272
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 273
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 274
+
+type of solution: 1
+consistent system of linear eqautions
+
+result:
+15.000000
+-10.000000
+10.000000
+25.000000
+basic solution
+result = 0
+
+
+iteration 275
+
+type of solution: 0
+infinite number of solutions
+
+result = 0
+
+
+iteration 276
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 277
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 278
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 279
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 280
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 281
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 282
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 283
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 284
+
+type of solution: 1
+consistent system of linear eqautions
+
+result:
+-10.000000
+15.000000
+10.000000
+25.000000
+basic solution
+result = 0
+
+
+iteration 285
+
+type of solution: 0
+infinite number of solutions
+
+result = 0
+
+
+iteration 286
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 287
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 288
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 289
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 290
+
+type of solution: 1
+consistent system of linear eqautions
+
+result:
+-10.000000
+15.000000
+10.000000
+25.000000
+basic solution
+result = 0
+
+
+iteration 291
+
+type of solution: 0
+infinite number of solutions
+
+result = 0
+
+
+iteration 292
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 293
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 294
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 295
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 296
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 297
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 298
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 299
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 300
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 301
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 302
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 303
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 304
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 305
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 306
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 307
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 308
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 309
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 310
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 311
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 312
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 313
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 314
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 315
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 316
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 317
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 318
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 319
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 320
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 321
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 322
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 323
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 324
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 325
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 326
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 327
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 328
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 329
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 330
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 331
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 332
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 333
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 334
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 335
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 336
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 337
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 338
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 339
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 340
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 341
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 342
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 343
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 344
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 345
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 346
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 347
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 348
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 349
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 350
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 351
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 352
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 353
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 354
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 355
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 356
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 357
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 358
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 359
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 360
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 361
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 362
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 363
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 364
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 365
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 366
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 367
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 368
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 369
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 370
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 371
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 372
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 373
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 374
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 375
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 376
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 377
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 378
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 379
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 380
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 381
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 382
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 383
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 384
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 385
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 386
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 387
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 388
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 389
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 390
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 391
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 392
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 393
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 394
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 395
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 396
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 397
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 398
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 399
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 400
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 401
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 402
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 403
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 404
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 405
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 406
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 407
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 408
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 409
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 410
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 411
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 412
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 413
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 414
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 415
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 416
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 417
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 418
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 419
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 420
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 421
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 422
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 423
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 424
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 425
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 426
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 427
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 428
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 429
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 430
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 431
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 432
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 433
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 434
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 435
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 436
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 437
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 438
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 439
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 440
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 441
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 442
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 443
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 444
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 445
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 446
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 447
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 448
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 449
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 450
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 451
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 452
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 453
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 454
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 455
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 456
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 457
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 458
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 459
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 460
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 461
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 462
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 463
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 464
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 465
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 466
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 467
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 468
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 469
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 470
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 471
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 472
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 473
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 474
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 475
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 476
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 477
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 478
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 479
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 480
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 481
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 482
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 483
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 484
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 485
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 486
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 487
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 488
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 489
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 490
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 491
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 492
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 493
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 494
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 495
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 496
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 497
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 498
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 499
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 500
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 501
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 502
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 503
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 504
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 505
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 506
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 507
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 508
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 509
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 510
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 511
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 512
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 513
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 514
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 515
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 516
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 517
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 518
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 519
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 520
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 521
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 522
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 523
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 524
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 525
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 526
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 527
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 528
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 529
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 530
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 531
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 532
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 533
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 534
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 535
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 536
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 537
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 538
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 539
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 540
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 541
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 542
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 543
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 544
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 545
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 546
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 547
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 548
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 549
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 550
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 551
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 552
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 553
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 554
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 555
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 556
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 557
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 558
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 559
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 560
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 561
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 562
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 563
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 564
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 565
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 566
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 567
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 568
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 569
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 570
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 571
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 572
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 573
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 574
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 575
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 576
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 577
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 578
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 579
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 580
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 581
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 582
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 583
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 584
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 585
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 586
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 587
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 588
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 589
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 590
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 591
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 592
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 593
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 594
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 595
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 596
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 597
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 598
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 599
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 600
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 601
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 602
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 603
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 604
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 605
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 606
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 607
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 608
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 609
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 610
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 611
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 612
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 613
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 614
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 615
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 616
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 617
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 618
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 619
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 620
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 621
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 622
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 623
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 624
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 625
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 626
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 627
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 628
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 629
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 630
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 631
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 632
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 633
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 634
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 635
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 636
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 637
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 638
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 639
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 640
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 641
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 642
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 643
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 644
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 645
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 646
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 647
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 648
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 649
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 650
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 651
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 652
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 653
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 654
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 655
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 656
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 657
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 658
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 659
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 660
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 661
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 662
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 663
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 664
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 665
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 666
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 667
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 668
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 669
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 670
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 671
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 672
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 673
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 674
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 675
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 676
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 677
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 678
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 679
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 680
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 681
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 682
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 683
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 684
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 685
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 686
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 687
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 688
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 689
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 690
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 691
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 692
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 693
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 694
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 695
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 696
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 697
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 698
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 699
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 700
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 701
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 702
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 703
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 704
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 705
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 706
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 707
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 708
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 709
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 710
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 711
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 712
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 713
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 714
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 715
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 716
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 717
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 718
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 719
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 720
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 721
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 722
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 723
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 724
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 725
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 726
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 727
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 728
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 729
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 730
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 731
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 732
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 733
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 734
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 735
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 736
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 737
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 738
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 739
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 740
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 741
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 742
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 743
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 744
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 745
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 746
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 747
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 748
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 749
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 750
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 751
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 752
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 753
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 754
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 755
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 756
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 757
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 758
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 759
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 760
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 761
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 762
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 763
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 764
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 765
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 766
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 767
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 768
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 769
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 770
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 771
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 772
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 773
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 774
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 775
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 776
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 777
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 778
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 779
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 780
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 781
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 782
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 783
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 784
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 785
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 786
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 787
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 788
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 789
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 790
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 791
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+iteration 792
+
+type of solution: -1
+inconsistent system of linear equations
+
+result = 0
+
+
+the optimal solution: 405.000000
